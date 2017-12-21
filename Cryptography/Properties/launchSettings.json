@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cryptography": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt 8xkey.pub somefile.txt"
+    }
+  }
+}

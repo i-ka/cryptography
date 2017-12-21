@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{082B6DE8-21A1-4029-ADB1-65A469A31B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082B6DE8-21A1-4029-ADB1-65A469A31B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082B6DE8-21A1-4029-ADB1-65A469A31B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082B6DE8-21A1-4029-ADB1-65A469A31B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082B6DE8-21A1-4029-ADB1-65A469A31B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9369E34-2706-4CAA-82A6-AAC0EB3A4A35}
+	EndGlobalSection
+EndGlobal
